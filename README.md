@@ -22,13 +22,11 @@ Análisis de variables como:
 
 Horas de sueño por día.
 
-Presión académica vs. satisfacción con el estudio.
 
 Estrés financiero y antecedentes familiares de enfermedades mentales.
 
-Distribución de estudiantes con y sin depresión por edad, género y ciudad.
+Distribución de estudiantes con y sin depresión por edad, género .
 
-Visualizaciones con matplotlib y seaborn para identificar patrones y relaciones entre variables.
 
 Con Power BI:
 Dashboards con filtros interactivos para:
